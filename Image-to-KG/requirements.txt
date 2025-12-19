@@ -1,0 +1,6 @@
+torch==2.5.1
+opencv-python==4.12.0
+pandas
+matplotlib
+tqdm
+numpy
